@@ -20,3 +20,5 @@ Run:
 ```
 python3 WPACrack.py
 ```
+
+Make sure to install Nvidia CUDA 10.X and update your graphics drivers to their newest version or else this software will FAIL!
